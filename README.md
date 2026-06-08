@@ -2,11 +2,11 @@
 
 A practical implementation of feature engineering and feature scaling techniques used in machine learning to improve model performance and data quality.
 
-## 🚀 Open in Google Colab
+# 🚀 Open in Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mict_bDSkG5kxxpGtuH5CGT-4hmFfrKG?usp=sharing)
 
-## 📌 Overview
+# 📌 Overview
 
 This notebook demonstrates essential feature engineering and feature scaling methods commonly used during the data preprocessing stage of machine learning workflows.
 
