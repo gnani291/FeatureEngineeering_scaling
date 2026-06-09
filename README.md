@@ -10,7 +10,7 @@ A practical implementation of feature engineering and feature scaling techniques
 
 This notebook demonstrates essential feature engineering and feature scaling methods commonly used during the data preprocessing stage of machine learning workflows.
 
-## ✨ Topics Covered
+# ✨ Topics Covered
 
 - Feature Engineering
 - Feature Creation
@@ -21,7 +21,7 @@ This notebook demonstrates essential feature engineering and feature scaling met
 - Handling Skewed Data
 - Data Preprocessing Techniques
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - Python
 - Pandas
