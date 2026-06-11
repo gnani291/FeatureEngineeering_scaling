@@ -29,14 +29,14 @@ This notebook demonstrates essential feature engineering and feature scaling met
 - Scikit-learn
 - Google Colab
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```text
 FeatureEngineering_scaling.ipynb
 README.md
 ```
 
-## 🎯 Learning Outcomes
+# 🎯 Learning Outcomes
 
 After completing this notebook, you will understand:
 
@@ -46,7 +46,7 @@ After completing this notebook, you will understand:
 - When to use normalization and standardization
 - How transformations improve model performance
 
-## ▶️ Getting Started
+# ▶️ Getting Started
 
 1. Clone the repository
 
