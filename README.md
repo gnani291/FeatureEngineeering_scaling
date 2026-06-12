@@ -66,7 +66,7 @@ pip install pandas numpy scikit-learn
 jupyter notebook FeatureEngineering_scaling.ipynb
 ```
 
-## 📈 Applications
+# 📈 Applications
 
 - Machine Learning Pipelines
 - Predictive Analytics
@@ -75,7 +75,7 @@ jupyter notebook FeatureEngineering_scaling.ipynb
 - Classification Models
 - Regression Models
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **Gnani Tadiparthi**
 
